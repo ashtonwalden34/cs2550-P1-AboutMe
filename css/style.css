@@ -1,3 +1,32 @@
+label {
+    font-weight: bold;
+}
+
+
 .img {
     width: 400px;
+}
+
+.book-title {
+    font-style: italic;
+}
+
+#poem-container {
+    width: 100%;
+    border: 3px solid red;
+}
+
+#poem, #poem-title, #poem-ins {
+    text-align: center;
+}
+
+table, th, td {
+    border: solid 1px black;
+    text-align: start;
+    vertical-align: text-top;
+}
+
+th, td {
+    padding: 10px;
+    width: 100px;
 }
